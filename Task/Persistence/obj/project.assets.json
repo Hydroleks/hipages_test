@@ -1119,8 +1119,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "c:\\Users\\flexy\\Desktop\\ProjectsOfFun\\TechTest\\TechTest_HiPages\\Task\\Domain\\Domain.csproj": {
-              "projectPath": "c:\\Users\\flexy\\Desktop\\ProjectsOfFun\\TechTest\\TechTest_HiPages\\Task\\Domain\\Domain.csproj"
+            "C:\\Users\\flexy\\Desktop\\ProjectsOfFun\\TechTest\\TechTest_HiPages\\Task\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\flexy\\Desktop\\ProjectsOfFun\\TechTest\\TechTest_HiPages\\Task\\Domain\\Domain.csproj"
             }
           }
         }

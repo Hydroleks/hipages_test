@@ -4,14 +4,14 @@
     "C:\\Users\\flexy\\Desktop\\ProjectsOfFun\\TechTest\\TechTest_HiPages\\Task\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "c:\\Users\\flexy\\Desktop\\ProjectsOfFun\\TechTest\\TechTest_HiPages\\Task\\Domain\\Domain.csproj": {
+    "C:\\Users\\flexy\\Desktop\\ProjectsOfFun\\TechTest\\TechTest_HiPages\\Task\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\flexy\\Desktop\\ProjectsOfFun\\TechTest\\TechTest_HiPages\\Task\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\flexy\\Desktop\\ProjectsOfFun\\TechTest\\TechTest_HiPages\\Task\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "c:\\Users\\flexy\\Desktop\\ProjectsOfFun\\TechTest\\TechTest_HiPages\\Task\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\flexy\\Desktop\\ProjectsOfFun\\TechTest\\TechTest_HiPages\\Task\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\flexy\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\flexy\\Desktop\\ProjectsOfFun\\TechTest\\TechTest_HiPages\\Task\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\flexy\\Desktop\\ProjectsOfFun\\TechTest\\TechTest_HiPages\\Task\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -90,8 +90,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "c:\\Users\\flexy\\Desktop\\ProjectsOfFun\\TechTest\\TechTest_HiPages\\Task\\Domain\\Domain.csproj": {
-                "projectPath": "c:\\Users\\flexy\\Desktop\\ProjectsOfFun\\TechTest\\TechTest_HiPages\\Task\\Domain\\Domain.csproj"
+              "C:\\Users\\flexy\\Desktop\\ProjectsOfFun\\TechTest\\TechTest_HiPages\\Task\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\flexy\\Desktop\\ProjectsOfFun\\TechTest\\TechTest_HiPages\\Task\\Domain\\Domain.csproj"
               }
             }
           }
