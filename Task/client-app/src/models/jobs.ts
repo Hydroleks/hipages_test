@@ -1,8 +1,8 @@
 export interface Job {
     id: string;
     status: string;
-    suburbId: string;
-    categoryId: string;
+    suburb: string;
+    category: string;
     contactName: string;
     contactPhone: string;
     contactEmail: string;

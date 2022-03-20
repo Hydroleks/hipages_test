@@ -91,6 +91,9 @@ public class Seed
             {
                 new Job
                 {
+                    Status = "new",
+                    Created = DateTime.Now,
+                    Updated = DateTime.MinValue,
                     SuburbId = (await context.Suburbs.Where(suburb => suburb.Name == "Sydney").AsNoTracking().SingleOrDefaultAsync()).Id,
                     CategoryId = (await context.Categories.Where(category => category.Name == "Plumbing").AsNoTracking().SingleOrDefaultAsync()).Id,
                     ContactName = "Luke Skywalker",
@@ -101,6 +104,9 @@ public class Seed
                 },
                 new Job
                 {
+                    Status = "new",
+                    Created = DateTime.Now,
+                    Updated = DateTime.MinValue,
                     SuburbId = (await context.Suburbs.Where(suburb => suburb.Name == "Bondi").AsNoTracking().SingleOrDefaultAsync()).Id,
                     CategoryId = (await context.Categories.Where(category => category.Name == "Electrical").AsNoTracking().SingleOrDefaultAsync()).Id,
                     ContactName = "Darth Vader",
@@ -111,6 +117,9 @@ public class Seed
                 },
                 new Job
                 {
+                    Status = "new",
+                    Created = DateTime.Now,
+                    Updated = DateTime.MinValue,
                     SuburbId = (await context.Suburbs.Where(suburb => suburb.Name == "Manly").AsNoTracking().SingleOrDefaultAsync()).Id,
                     CategoryId = (await context.Categories.Where(category => category.Name == "Carpentry").AsNoTracking().SingleOrDefaultAsync()).Id,
                     ContactName = "Han Solo",
@@ -121,6 +130,9 @@ public class Seed
                 },
                 new Job
                 {
+                    Status = "new",
+                    Created = DateTime.Now,
+                    Updated = DateTime.MinValue,
                     SuburbId = (await context.Suburbs.Where(suburb => suburb.Name == "Surry Hills").AsNoTracking().SingleOrDefaultAsync()).Id,
                     CategoryId = (await context.Categories.Where(category => category.Name == "Handyman").AsNoTracking().SingleOrDefaultAsync()).Id,
                     ContactName = "Kylo Ren",
@@ -133,6 +145,9 @@ public class Seed
                 },
                 new Job
                 {
+                    Status = "new",
+                    Created = DateTime.Now,
+                    Updated = DateTime.MinValue,
                     SuburbId = (await context.Suburbs.Where(suburb => suburb.Name == "Newtown").AsNoTracking().SingleOrDefaultAsync()).Id,
                     CategoryId = (await context.Categories.Where(category => category.Name == "Building").AsNoTracking().SingleOrDefaultAsync()).Id,
                     ContactName = "Lando Calrissian",
@@ -143,6 +158,9 @@ public class Seed
                 },
                 new Job
                 {
+                    Status = "new",
+                    Created = DateTime.Now,
+                    Updated = DateTime.MinValue,
                     SuburbId = (await context.Suburbs.Where(suburb => suburb.Name == "Sydney").AsNoTracking().SingleOrDefaultAsync()).Id,
                     CategoryId = (await context.Categories.Where(category => category.Name == "Bathroom Renovation").AsNoTracking().SingleOrDefaultAsync()).Id,
                     ContactName = "Jabba TheHutt",
