@@ -51,7 +51,8 @@ Introducing the option for the user to see how long the list they would like is 
 along the infinite scroll option.
 The component is modular so having it in another search component would possibly be a good approach
 to allow users to filter by suburb, price, or job category.
-
+The suburb, price, job category should've been put into their own component and used across both Accepted and Invitied
+Job detail cards.
 
 Concerns:
 The efficiency of the use of the Tabs. I am not entirely sure if the tabs are used correctly.
